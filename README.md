@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ryan
 
-🎓 Computer Science at **Michigan State University** ('29)
-🔬 Undergraduate Computer Vision Researcher under Dr. Surya S. C. Congress
-💻 Full-Stack Software Engineer on **[Nexxup](https://github.com/Nexxup1/nexxup)** (Imagine Software)
+* 🎓 Computer Science at **Michigan State University** ('29)
+* 🔬 Undergraduate Computer Vision Researcher under Dr. Surya S. C. Congress
+* 💻 Full-Stack Software Engineer on **[Nexxup](https://github.com/Nexxup1/nexxup)** (Imagine Software)
 
 ---
 
