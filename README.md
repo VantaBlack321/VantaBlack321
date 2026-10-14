@@ -6,23 +6,25 @@
 
 ---
 
-### 🛠️ Developer Tools
+### 🛠 Developer Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Firestore](https://img.shields.io/badge/Google_Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Cloud Firestore](https://img.shields.io/badge/Google_Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
 ### 🚀 What I'm Working On
 
-* **[Nexxup](https://github.com/Nexxup1/nexxup):** Building authenticated Flask endpoints, Firestore atomic transactions, and dynamic logarithmic genre scaling (`/discover`).
+* **Nexxup:** Building full-stack features: authenticated Flask endpoints, Firestore atomic transactions, logarithmic genre scaling (/discover), and Hall of Fame time-series profiles with Chart.js.
 * **[3D Cylindrical CV](https://github.com/VantaBlack321/cylinder-3d-reconstruction):** Unwrapping 2D monocular pipe surfaces to 3D cylindrical coordinates ($s = R\theta, z$) and calculating physical defect area via SVD and Shoelace.
 * **[Detroit Lions Front Office Sim](https://github.com/VantaBlack321/lions-front-office-sim):** Roster and NFL cap management engine built in vanilla JS.
