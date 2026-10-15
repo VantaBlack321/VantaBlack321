@@ -2,7 +2,7 @@
 
 🎓 Computer Science at **Michigan State University** ('29)<br>
 🔬 Undergraduate Computer Vision Researcher under Dr. Surya S. C. Congress<br>
-💻 Full-Stack Software Engineer on **[Nexxup](https://github.com/Nexxup1/nexxup)** (Imagine Software)
+💻 Full-Stack Software Engineer on **[Nexxup](https://nexxup.net)** (Imagine Software)
 
 ---
 
@@ -25,6 +25,6 @@
 
 ### 🚀 What I'm Working On
 
-* **Nexxup:** Building full-stack features: authenticated Flask endpoints, Firestore atomic transactions, logarithmic genre scaling (/discover), and Hall of Fame time-series profiles with Chart.js.
-* **[3D Cylindrical CV](https://github.com/VantaBlack321/cylinder-3d-reconstruction):** Unwrapping 2D monocular pipe surfaces to 3D cylindrical coordinates ($s = R\theta, z$) and calculating physical defect area via SVD and Shoelace.
-* **[Detroit Lions Front Office Sim](https://github.com/VantaBlack321/lions-front-office-sim):** Roster and NFL cap management engine built in vanilla JS.
+- **[Nexxup](https://nexxup.net):** Building full-stack systems: authenticated Flask REST endpoints, Firestore atomic transactions, logarithmic genre scaling (/discover), and multi-tier audio streaming fallback pipelines (Upload > Deezer > SoundCloud > YouTube).
+- **[3D Cylindrical CV](https://github.com/VantaBlack321/cylinder-3d-reconstruction):** Unwrapping 2D monocular pipe surfaces to 3D cylindrical coordinates ($s = R\theta, z$) and calculating physical defect area via SVD and Shoelace.
+- **[Detroit Lions Front Office Sim](https://github.com/VantaBlack321/lions-front-office-sim):** Roster and NFL cap management engine built in vanilla JS.
