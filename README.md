@@ -26,5 +26,5 @@
 ### 🚀 What I'm Working On
 
 - **[Nexxup](https://nexxup.net):** Building full-stack systems: authenticated Flask REST endpoints, Firestore atomic transactions, logarithmic genre scaling (/discover), and multi-tier audio streaming fallback pipelines (Upload > Deezer > SoundCloud > YouTube).
-- **[3D Cylindrical CV](https://github.com/VantaBlack321/cylinder-3d-reconstruction):** Unwrapping 2D monocular pipe surfaces to 3D cylindrical coordinates ($s = R\theta, z$) and calculating physical defect area via SVD and Shoelace.
+- **[3D Cylindrical CV](https://github.com/VantaBlack321/cylinder-3d-reconstruction):** Unwrapping 2D monocular pipe surfaces into 3D cylindrical coordinates ($R, \theta, z \to s = R\theta, z$) and calculating physical defect area via SVD and Shoelace.
 - **[Detroit Lions Front Office Sim](https://github.com/VantaBlack321/lions-front-office-sim):** Roster and NFL cap management engine built in vanilla JS.
